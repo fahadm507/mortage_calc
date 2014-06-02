@@ -1,3 +1,0 @@
-class Mortgage
-  
-end
